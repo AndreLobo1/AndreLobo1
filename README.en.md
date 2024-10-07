@@ -7,7 +7,3 @@
 <p align="center">
   Sorry, this page isn't ready yet. We apologize for the inconvenience, and we are working on its development. Please check back soon to see if it is available!
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0Exy9XgH3jlC9AEI/giphy.gif" height="25px" />
-</div>
