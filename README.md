@@ -68,8 +68,12 @@ Gostaria de bater um papo comigo? Basta clicar no botão abaixo e escolher o hor
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreLobo1&theme=highcontrast&border_radius=5&locale=pt_BR&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-  ![snake gif](https://github.com/AndreLobo1/AndreLobo1/blob/output/github-contribution-grid-snake.gif)
-  
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreLobo1/AndreLobo1/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <details open> 
